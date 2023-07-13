@@ -14,3 +14,4 @@
 * Start getting better benefits from Amazon Vine
 * Finish all the North Carolina sections of the AT
 * Update family history, including massive paper photo backlog
+* Dig into more sophisticated home automation
